@@ -3,10 +3,10 @@
 
 #### I am a Data Scientist who 
 - :muscle: loves to solve complex problems in diverse domains
+- - :earth_africa: is currently working in the field of **Climate Change**
 - :fire: handled challenging tasks in Bioinformatics, Telecommunications & Knowledge Graphs
-- :earth_africa: currently working in the field of **Climate Change**
 - :zap: plays with all kinds of data structures - text, image, graph, numerical etc
-- :sunny: at the end of the day, **my aim is to make the data shine!**
+- :sunny: at the end of the day, **aims to make the data shine!**
 
 :memo: I write at [Medium](https://medium.com/@rohithtejam)
 
